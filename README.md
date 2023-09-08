@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ammar Alomran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Data Analytics Certificate from Google**
+- 🌱 I’m currently learning **Data Analytics Certificate from freecodecamp**
 
 - 💬 Ask me about **ML, python**
 
