@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ammar Alomran</h1>
 
-- 🌱 I’m currently learning **Data Analytics Certificate from freecodecamp**
 
 - 💬 Ask me about **ML, python**
 
